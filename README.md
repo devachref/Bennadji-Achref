@@ -37,10 +37,9 @@ I’m an independent artificial intelligence and software developer, passionate 
 
 
 <details>
-  <summary><h3>👨‍💻 [Achref]'s Coding Journey</h3></summary>
-  I started my journey as a curious student, diving into coding, Unix, and Linux while dreaming of building my own app. My passion for Java led me to a full-stack software engineering job, but my love for content creation pulled me away. I took the leap into YouTube full-time, but a part of me always longed to build my own product.
-
-  Now, I’m ready to step out of my comfort zone and turn that dream into reality. I'm focusing more time on product development while continuing to create content. The journey is just beginning, and I’m ready to make it happen.
+  <summary><h3>👨‍💻 Achref's Coding Journey</h3></summary>
+  <p>I started as a curious student, diving into coding with the dream of building my own app. My passion for programming led me to explore artificial intelligence and eventually create my first AI-powered startup.</p>
+  <p>Now, I'm stepping out of my comfort zone to turn that dream into reality. I'm dedicating more time to developing my skills and crafting the best technical solutions. The journey has just begun, and I'm ready to make it happen.</p>
 </details>
 
 
