@@ -36,11 +36,18 @@ I’m an independent artificial intelligence and software developer, passionate 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devachref&show_icons=true&theme=catppuccin_latte)
 
 
-<details>
-  <summary><h3>👨‍💻 Achref's Coding Journey</h3></summary>
-  <p>I started as a curious student, diving into coding with the dream of building my own app. My passion for programming led me to explore artificial intelligence and eventually create my first AI-powered startup.</p>
-  <p>Now, I'm stepping out of my comfort zone to turn that dream into reality. I'm dedicating more time to developing my skills and crafting the best technical solutions. The journey has just begun, and I'm ready to make it happen.</p>
-</details>
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px; margin: 10px 0;">
+  <h3>👨‍💻 Achref's Coding Journey</h3>
+  <p>
+    I started as a curious student, diving into coding with the dream of building my own app. 
+    My passion for programming led me to explore artificial intelligence and eventually create my first AI-powered startup.
+  </p>
+  <p>
+    Now, I'm stepping out of my comfort zone to turn that dream into reality. I'm dedicating more time to developing my skills 
+    and crafting the best technical solutions. The journey has just begun, and I'm ready to make it happen.
+  </p>
+</div>
+
 
 
 
