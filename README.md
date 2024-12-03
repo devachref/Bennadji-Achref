@@ -35,7 +35,15 @@ I’m an independent artificial intelligence and software developer, passionate 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devachref&show_icons=true&theme=catppuccin_latte)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!--
+<details>
+  <summary><h3>👨‍💻 [Achref]'s Coding Journey</h3></summary>
+  I started my journey as a curious student, diving into coding, Unix, and Linux while dreaming of building my own app. My passion for Java led me to a full-stack software engineering job, but my love for content creation pulled me away. I took the leap into YouTube full-time, but a part of me always longed to build my own product.
+
+  Now, I’m ready to step out of my comfort zone and turn that dream into reality. I'm focusing more time on product development while continuing to create content. The journey is just beginning, and I’m ready to make it happen.
+</details>
+-->
+
 
 
 #
