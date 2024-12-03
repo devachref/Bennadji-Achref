@@ -33,7 +33,7 @@ I’m an independent artificial intelligence and software developer, passionate 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://camo.githubusercontent.com/8d831096bcddd291f29f2fbb913f74a50b66f2d5483a99a93448769cab5ce27a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
